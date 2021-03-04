@@ -1,0 +1,13 @@
+D:\c#projs\homework-console\bin\Debug\netcoreapp3.1\homework-console.exe
+D:\c#projs\homework-console\bin\Debug\netcoreapp3.1\homework-console.deps.json
+D:\c#projs\homework-console\bin\Debug\netcoreapp3.1\homework-console.runtimeconfig.json
+D:\c#projs\homework-console\bin\Debug\netcoreapp3.1\homework-console.runtimeconfig.dev.json
+D:\c#projs\homework-console\bin\Debug\netcoreapp3.1\homework-console.dll
+D:\c#projs\homework-console\bin\Debug\netcoreapp3.1\homework-console.pdb
+D:\c#projs\homework-console\obj\Debug\netcoreapp3.1\homework-console.csprojAssemblyReference.cache
+D:\c#projs\homework-console\obj\Debug\netcoreapp3.1\homework-console.AssemblyInfoInputs.cache
+D:\c#projs\homework-console\obj\Debug\netcoreapp3.1\homework-console.AssemblyInfo.cs
+D:\c#projs\homework-console\obj\Debug\netcoreapp3.1\homework-console.csproj.CoreCompileInputs.cache
+D:\c#projs\homework-console\obj\Debug\netcoreapp3.1\homework-console.dll
+D:\c#projs\homework-console\obj\Debug\netcoreapp3.1\homework-console.pdb
+D:\c#projs\homework-console\obj\Debug\netcoreapp3.1\homework-console.genruntimeconfig.cache

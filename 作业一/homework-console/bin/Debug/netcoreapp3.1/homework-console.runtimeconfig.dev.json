@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wuxiefeng\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wuxiefeng\\.nuget\\packages"
+    ]
+  }
+}
